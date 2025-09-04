@@ -428,14 +428,6 @@ Full response includes comprehensive analysis:
 3. **Distribution**: AWS Marketplace, direct sales, partner integrations
 4. **Marketing**: Technical content, hackathon showcases, financial conferences
 5. **Success Metrics**: API calls/month, user retention, revenue per user
-
-**Investment Required:**
-- **Development Team**: 3-5 engineers (6 months) - $500K
-- **Infrastructure**: AWS costs scaling with usage - $50K-200K annually  
-- **Compliance**: Legal and regulatory review - $100K
-- **Marketing**: Go-to-market execution - $200K
-- **Total**: ~$1M for production-ready enterprise solution
-
 ---
 *This hackathon project demonstrates the powerful combination of MCP documentation access, Strands agent orchestration, and AWS Bedrock AgentCore deployment for creating production-ready AI financial services.*
 
