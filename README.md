@@ -10,7 +10,7 @@ A Strands-based AI agent that analyzes stock prices using Yahoo Finance and gene
 ✅ **Bedrock AgentCore**: Deployed and operational  
 ✅ **Production Testing**: Agent responding to invocations  
 
-**AgentCore ARN**: `arn:aws:bedrock-agentcore:us-west-2:534831852398:runtime/stock_analysis-SDlddo218l`
+**AgentCore ARN**: 'arn:aws:bedrock-agentcore:us-west-2:809294704081:runtime/stock_analysis_hosted_agent-ilnzLr6DSz'
 
 ## Features
 
@@ -26,7 +26,7 @@ A Strands-based AI agent that analyzes stock prices using Yahoo Finance and gene
 
 ```
 stock-forecast-agent/
-├── agent.py                    # Full-featured Strands agent with advanced analysis
+├── agent.py                   # Full-featured Strands agent with advanced analysis
 ├── tools.py                   # Stock analysis tools (@tool decorators)
 ├── forecaster.py              # Advanced forecasting algorithms (ML-based)
 ├── test_local.py              # Comprehensive local testing suite
