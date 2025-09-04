@@ -184,6 +184,22 @@ docker run -p 8080:8080 stock-agent
 
 ## Example Response Structure
 
+Payload example:
+
+```json
+{
+  "input": "AAPL",
+  "user_id": "stock_user_001",
+  "session_id": "session-1756993225-55d2414d-c13a-4717-96e8-b0cfadcd2e42",
+  "identity_id": "stock-user-1756993225",
+  "context": {
+    "analysis_type": "stock_forecast",
+    "timezone": "America/New_York",
+    "language": "en"
+  }
+}
+```
+
 Full response includes comprehensive analysis:
 
 ```json
